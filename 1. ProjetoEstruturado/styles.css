@@ -1,0 +1,28 @@
+header {
+    border: 5px double #888888;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+header img {
+    width: 10%;
+    margin: 3px 5px 3px 5px;
+}
+
+main {
+    border: 5px double #888888;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+header h1 {
+    padding: 20px;
+}
+
+footer {
+    border: 10px solid black;
+    padding: 20px;
+}

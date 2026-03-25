@@ -1,0 +1,40 @@
+header, footer{
+    background-color: #344973;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+
+nav ul li:hover{
+    background-color: #4E5BA6;
+    border-radius: 25px;
+}
+
+
+section{
+     background-color: #4E5BA6;
+     margin-bottom: 10px;
+}
+
+video, img {
+    height: 200px;
+    width: 300px;
+}
+
+img:hover{
+    transform: scale(1.2);
+}
+
